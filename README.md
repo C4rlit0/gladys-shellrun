@@ -8,7 +8,7 @@ Nom : ShellRun
 
 Version : 0.1.0
 
-URL git : https://github.com/C4rlit0/gladys-shellrun
+URL git : https://github.com/C4rlit0/gladys-shellrun.git
 
 Slug : shellrun
 
