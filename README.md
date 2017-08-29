@@ -5,8 +5,11 @@ Installation :
 L'installer via le mode avancé : 
 
 Nom : ShellRun
-version : 0.1.0
+
+Version : 0.1.0
+
 URL git : https://github.com/C4rlit0/gladys-shellrun
+
 Slug : shellrun
 
 ensuite
