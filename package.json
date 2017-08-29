@@ -1,0 +1,13 @@
+{
+  "name": "gladys-shellrun",
+  "version": "0.1.0",
+  "description": "Allow script shell execution in gladys",
+  "keywords": [
+    "shell"
+  ],
+  "dependencies": {
+    "shelljs": "^0.7.8"
+  },
+  "author": "Carlit0",
+  "license": "CC-BY-NC-SA-3.0"
+}
